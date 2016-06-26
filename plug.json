@@ -1,8 +1,8 @@
 {
     "room":                     "Chillination",
     "author":                   "Bennyboobies",
-    "icon":                     null,
-    "css":                      null,
+    "icon":                     "https://d13yacurqjgara.cloudfront.net/users/343309/screenshots/2660527/chill.gif",
+    "css":                      "https://rawgit.com/Benny91/plugcss/master/plug.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
