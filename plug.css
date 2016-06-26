@@ -1,8 +1,11 @@
-/*.room-background {
+.room-background {
     background: url(https://giant.gfycat.com/GleamingSeriousAlbino.gif) no-repeat !important;
     width: 500% !important;
     height: 500% !important;
-}*/
+}
+.icon-room {
+    background-size: 30px 30px;
+}
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
